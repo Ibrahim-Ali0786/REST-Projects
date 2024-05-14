@@ -9,3 +9,7 @@ h1{
 {
     font-style: italic;
 }
+#newPost{
+    text-decoration: none;
+    color: black;
+}
